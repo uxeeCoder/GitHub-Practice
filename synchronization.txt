@@ -1,1 +1,3 @@
 # Hi There
+
+Accidentally created this txt file in VS code so Im leaving it as is and I created another .txt file in github and pulled in from there.
